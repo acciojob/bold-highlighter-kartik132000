@@ -7,7 +7,6 @@ function highlight() {
 	}
 
 
-
 function return_normal() {
     //Write your code here
 	let boldelement = document.queryselectorAll('b');
